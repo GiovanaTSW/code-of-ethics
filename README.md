@@ -2,6 +2,7 @@
 
 Repositorio que contiene el **Código de Ética Profesional** desarrollado como parte de la formación en ingeniería y desarrollo de software. Este proyecto establece los principios rectores, normas de conducta y compromisos fundamentales para un ejercicio profesional ético, responsable y enfocado en la calidad tecnológica.
 
+
 ---
 
 ## Equipo de Trabajo
